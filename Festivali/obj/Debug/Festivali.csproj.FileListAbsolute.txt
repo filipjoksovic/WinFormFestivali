@@ -1,0 +1,11 @@
+C:\Users\MyComp\Desktop\Festivali\Festivali\Festivali\bin\Debug\Festivali.exe.config
+C:\Users\MyComp\Desktop\Festivali\Festivali\Festivali\bin\Debug\Festivali.exe
+C:\Users\MyComp\Desktop\Festivali\Festivali\Festivali\bin\Debug\Festivali.pdb
+C:\Users\MyComp\Desktop\Festivali\Festivali\Festivali\obj\Debug\Festivali.csprojAssemblyReference.cache
+C:\Users\MyComp\Desktop\Festivali\Festivali\Festivali\obj\Debug\Festivali.Form1.resources
+C:\Users\MyComp\Desktop\Festivali\Festivali\Festivali\obj\Debug\Festivali.Properties.Resources.resources
+C:\Users\MyComp\Desktop\Festivali\Festivali\Festivali\obj\Debug\Festivali.csproj.GenerateResource.cache
+C:\Users\MyComp\Desktop\Festivali\Festivali\Festivali\obj\Debug\Festivali.csproj.CoreCompileInputs.cache
+C:\Users\MyComp\Desktop\Festivali\Festivali\Festivali\obj\Debug\Festivali.exe
+C:\Users\MyComp\Desktop\Festivali\Festivali\Festivali\obj\Debug\Festivali.pdb
+C:\Users\MyComp\Desktop\Festivali\Festivali\Festivali\obj\Debug\Festivali.Form2.resources
